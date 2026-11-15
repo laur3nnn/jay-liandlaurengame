@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://bywjyqdbcrpgu"]
+
+[ext_resource type="PackedScene" uid="uid://csrsqrw1skeil" path="res://newone.tscn" id="1_j7h3e"]
+
+[node name="player" unique_id=385939580 instance=ExtResource("1_j7h3e")]
+
+[node name="AnimatedSprite2D" parent="." index="0" unique_id=1938301]
+frame_progress = 0.32190824
